@@ -4,6 +4,8 @@
 
 In this project we took a dataset full of housing information from housing stock across different US State capital cities and built a regression model to predict prices. The goal was to build a high performing machine learning model that could accurately predict price, performing well when being tested on unseen data.
 
+**Notes to Readers** - We are refactoring to move some of the data cleaning and wrangling, which was extensive, into the notebook 0.5 - Data Cleaning, which is currently empty. All data cleaning, wrangling and EDA is done in 1 - EDA.ipynb at this time
+
 ## Process
 ### Step 1: Importing from .json
 - In EDA.ipynb we accessed the directory of .json data files from the data folder to create a raw dataframe (Pandas/Python) full of the housing information.
