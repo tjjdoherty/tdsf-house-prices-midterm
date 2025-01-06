@@ -1,5 +1,8 @@
 # Data Science Midterm Project
 
+## January 2025 Update
+This project has some good potential to improve things given my development in understanding since this was created, and ability to feature engineer some other items that reflect state cost of living which has a considerable impact on house prices, and currently this dataset doesn't have any information related to the home's location in a HCOL or LCOL state/city. This would be a good candidate for building a preprocessing pipeline too, but the priority is on my football and Canada PSI projects for illustrating those.
+
 ## Project/Goals
 
 In this project we took a dataset full of housing information from housing stock across different US State capital cities and built a regression model to predict prices. The goal was to build a high performing machine learning model that could accurately predict price, performing well when being tested on unseen data.
